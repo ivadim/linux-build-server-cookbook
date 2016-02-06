@@ -7,6 +7,9 @@ Prepares build server with main build tools and configures a vsts build agent
 * openjdk 8
 * android sdk
 * nodejs
+* maven
+* python 2 and python 3
+* cmake
 
 ## Extra tools
 * git
