@@ -1,0 +1,6 @@
+{
+  "id": "vsts",
+  "vsts_url": "https://myaccount.visualstudio.com",
+  "vsts_user": "",
+  "vsts_token": ""
+}

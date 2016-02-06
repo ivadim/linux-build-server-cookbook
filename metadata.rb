@@ -1,0 +1,15 @@
+name             'linux-build-server'
+maintainer       'Dmitry'
+maintainer_email 'iva9im@gmail.com'
+license          'MIT'
+description      'Test'
+long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
+version          '0.1.2'
+
+depends 'git'
+depends 'vsts_build_agent'
+depends 'nodejs'
+depends 'java'
+depends 'chef-client'
+depends 'android-sdk'
+depends 'subversion'
